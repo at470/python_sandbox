@@ -12,6 +12,7 @@ was reading, but it had no pictures or conversations in \
 it, ‘and what is the use of a book,’ thought Alice, \
 ‘without pictures or conversations?’"
 
+# Part 1
 list_text = text.split(' ') #create a list, delimiter is whitespace
 
 stripped_list = [] #strip out punctuations from original string
@@ -27,9 +28,7 @@ for word in stripped_list:
 letters.sort()
 print(letters)
 
-# debug = []
-# for index, val in enumerate(sec_to_last_chars):
-#     temp = [val, stripped_list[index]]
-#     debug.append(temp)
-#
-# print(debug)
+# End of part 1
+####
+
+# Part 2
