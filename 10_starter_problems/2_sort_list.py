@@ -3,11 +3,13 @@
 #
 # If the second parameter is "asc," then the function should return a list with the numbers in ascending order. If it's "desc," then the list should be in descending order, and if it's "none," it should return the original list unaltered.
 
-def sort_list(list, order='desc'):
+def sort_list(list, order):
     if order == 'desc':
-        return something
+        list.sort(reverse=True)
+        return list
     elif order == 'asc':
-        return something else
+        list.sort()
+        return list
     elif order == 'none':
         return list
     else:
@@ -17,10 +19,20 @@ list = [10, 2, 45, 0, -1, 5]
 
 print(list)
 
-print(sort_list(list, 'desc'))
+descending = sort_list(list, 'desc')
+print(descending)
 
-print(sort_list(list, 'asc'))
+list = [10, 2, 45, 0, -1, 5]
 
-print(sort_list(list, 'none'))
+ascending = sort_list(list, 'asc')
+print(ascending)
 
-print(sort_list(list, 'assdsfwer'))
+list = [10, 2, 45, 0, -1, 5]
+
+no_sort = sort_list(list, 'none')
+print(no_sort)
+
+list = [10, 2, 45, 0, -1, 5]
+
+junk = sort_list(list, 'assdsfwer')
+print(junk)
