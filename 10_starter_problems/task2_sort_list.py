@@ -14,25 +14,3 @@ def sort_list(list, order):
         return list
     else:
         return 'unable to sort, check order parameter'
-
-list = [10, 2, 45, 0, -1, 5]
-
-print(list)
-
-descending = sort_list(list, 'desc')
-print(descending)
-
-list = [10, 2, 45, 0, -1, 5]
-
-ascending = sort_list(list, 'asc')
-print(ascending)
-
-list = [10, 2, 45, 0, -1, 5]
-
-no_sort = sort_list(list, 'none')
-print(no_sort)
-
-list = [10, 2, 45, 0, -1, 5]
-
-junk = sort_list(list, 'assdsfwer')
-print(junk)

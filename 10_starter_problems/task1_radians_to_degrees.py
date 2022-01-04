@@ -6,5 +6,3 @@ def radians_to_degrees(radians):
     # 1° = π/180°
     degrees = 180 / pi * radians
     return degrees
-
-# print(radians_to_degrees(3.1))
