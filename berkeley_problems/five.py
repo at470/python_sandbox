@@ -1,7 +1,6 @@
 # Save the paragraph below — from Alice’s Adventures in Wonderland — to a variable named text. Write two programs using “for” loops and/or list comprehensions to do the following:
 #
 # Create a single string that contains the second-to-last letter of each word in text, sorted alphabetically and in lowercase. Save it to a variable named letters and print. If a word is less than two letters in length, use the single character available.
-# Find the average number of characters per word in text, rounded to the nearest hundredth. This value should exclude special characters, such as quotation marks and semicolons. Save it to a variable named avg_chars and print.
 
 import re
 
@@ -32,3 +31,21 @@ print(letters)
 ####
 
 # Part 2
+# Find the average number of characters per word in text, rounded to the nearest hundredth. This value should exclude special characters, such as quotation marks and semicolons. Save it to a variable named avg_chars and print.
+
+char_num = []
+for word in stripped_list:
+    char_num.append(len(word))
+print(char_num)
+
+# calculate number of characters per word
+total_char = 0
+for num in char_num:
+    total_char = total_char + num
+
+avg_char_per_word_in_text = round(total_char/len(char_num), 2)
+
+print(avg_char_per_word_in_text)
+
+# End of part 2
+####
