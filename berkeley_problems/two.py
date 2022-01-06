@@ -1,12 +1,11 @@
-# Write a function multiply() that takes one parameter, an integer x. Check that x is an integer at least three characters long. If it is not, end the function and print a statement explaining why. If it is, return the product of x’s digits.
-#
-# Write another function matching() that takes an integer x as a parameter and “wraps” your multiply() function. Compare the results of the multiply() function on x with the original x parameter and return a sorted list of any shared digits between the two. If there are none, print “No shared digits!”
-
+class InvalidInput( Exception ):
+    pass
 
 def multiply(x):
     str_x = str(x)
     if len(str_x) < 3:
-        return print('This integer isn\'t long enough')
+        print('This integer isn\'t long enough')
+        raise InvalidInput
     else:
         max_loop_num = len(str_x)-1
         i = 0
@@ -16,10 +15,23 @@ def multiply(x):
             i += 1
         return product
 
-# def matching(x):
-# what is wrapping?
+def matching(x):
+    unique_digits_from_multiply = set(int(i) for i in str(multiply(x)))
+    unique_digits_from_x = set(int(i) for i in str(x))
+
+    matching_digits = []
+    for i in unique_digits_from_multiply:
+        for j in unique_digits_from_x:
+            if i == j:
+                matching_digits.append(i)
+    matching_digits.sort()
+    if matching_digits == []:
+        print('No shared digits!')
+    return matching_digits
 #
 
 print(multiply(1468))
 
 print(multiply(74))
+
+print(multiply(123), matching(123))
