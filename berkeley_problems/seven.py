@@ -58,16 +58,13 @@ instruction = foo.get_instruction()
 while instruction != 'quit':
     if instruction == 'add student':
         foo.add_student()
-        instruction = foo.get_instruction()
-    if instruction == 'view gradebook':
+    elif instruction == 'view gradebook':
         foo.view_gradebook()
-        instruction = foo.get_instruction()
-    if instruction == 'calculate averages':
+    elif instruction == 'calculate averages':
         foo.calculate_avg_grade()
-        instruction = foo.get_instruction()
     else:
         print('Instruction not recognised, try again.')
-        instruction = input('What would you like to do?: ').lower()
+    (instruction = foo.get_instruction())
 
 foo.quit()
 
