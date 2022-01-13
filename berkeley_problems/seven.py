@@ -18,6 +18,9 @@ class Gradebook:
             self.gradebook[name] = grade
         else:
             raise InvalidInput
+    def get_instruction(self):
+        instruction = input('What would you like to do?: ').lower()
+        return instruction
     def add_student(self):
     # Add student: Creates a new entry in a dictionary called `gradebook.` The user will input the key (a student’s name) and the value (a list of grades).
         proceed = True
@@ -30,6 +33,7 @@ class Gradebook:
                 proceed = False
             else:
                 self.set_dict(student_name, student_grade)
+                print('New entry complete!')
                 proceed = False
     def view_gradebook(self):
         print(self.gradebook)
@@ -49,16 +53,31 @@ class Gradebook:
         print('End of program')
 
 
-
-
-
 foo = Gradebook()
-foo.add_student()
-foo.view_gradebook()
-foo.add_student()
-foo.view_gradebook()
-foo.calculate_avg_grade()
+instruction = foo.get_instruction()
+while instruction != 'quit':
+    if instruction == 'add student':
+        foo.add_student()
+        instruction = foo.get_instruction()
+    if instruction == 'view gradebook':
+        foo.view_gradebook()
+        instruction = foo.get_instruction()
+    if instruction == 'calculate averages':
+        foo.calculate_avg_grade()
+        instruction = foo.get_instruction()
+    else:
+        print('Instruction not recognised, try again.')
+        instruction = input('What would you like to do?: ').lower()
 
+foo.quit()
+
+
+#
+# foo.view_gradebook()
+# foo.add_student()
+# foo.view_gradebook()
+# foo.calculate_avg_grade()
+#
 
 # decision = input('What would you like to do?: ')
 # while lower(decision) != 'quit':
