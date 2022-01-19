@@ -67,24 +67,3 @@ while instruction != 'quit':
     (instruction = foo.get_instruction())
 
 foo.quit()
-
-
-#
-# foo.view_gradebook()
-# foo.add_student()
-# foo.view_gradebook()
-# foo.calculate_avg_grade()
-#
-
-# decision = input('What would you like to do?: ')
-# while lower(decision) != 'quit':
-#     if lower(decision) == :
-#     elif :
-#     elif :
-#     else:
-#         print('Unrecognised operation. Try again.')
-#
-# if decision == 'add student':
-#     add_student()
-# if decision == 'view gradebook':
-#     view_gradebook()
