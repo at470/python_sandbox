@@ -1,0 +1,5 @@
+EmployerName,EmployerId,EmployerSize,DiffMeanHourlyPercent,DiffMedianHourlyPercent,DiffMeanBonusPercent,DiffMedianBonusPercent,MaleBonusPercent,FemaleBonusPercent,MaleLowerQuartile,FemaleLowerQuartile,MaleLowerMiddleQuartile,FemaleLowerMiddleQuartile,MaleUpperMiddleQuartile,FemaleUpperMiddleQuartile,MaleTopQuartile,FemaleTopQuartile,year
+STARLING BANK LIMITED,17357,Less than 250,25.8,48.9,0.0,0.0,0.0,0.0,57.9,42.1,58.0,42.0,83.0,17.0,78.9,21.1,201718
+STARLING BANK LIMITED,17357,Less than 250,30.3,34.7,,,0.0,0.0,55.0,45.0,60.0,40.0,50.0,50.0,85.0,15.0,201819
+STARLING BANK LIMITED,17357,250 to 499,28.1,20.0,100.0,100.0,0.8,0.0,54.6,45.4,57.7,42.3,58.8,41.2,79.4,20.6,201920
+STARLING BANK LIMITED,17357,500 to 999,21.3,15.6,-190.0,-190.0,0.2,0.6,50.4,49.6,53.1,46.9,64.1,35.9,73.7,26.3,202021

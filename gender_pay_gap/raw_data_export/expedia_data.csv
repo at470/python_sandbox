@@ -1,0 +1,5 @@
+EmployerName,EmployerId,EmployerSize,DiffMeanHourlyPercent,DiffMedianHourlyPercent,DiffMeanBonusPercent,DiffMedianBonusPercent,MaleBonusPercent,FemaleBonusPercent,MaleLowerQuartile,FemaleLowerQuartile,MaleLowerMiddleQuartile,FemaleLowerMiddleQuartile,MaleUpperMiddleQuartile,FemaleUpperMiddleQuartile,MaleTopQuartile,FemaleTopQuartile,year
+EXPEDIA.COM LIMITED,4838,1000 to 4999,17.9,18.6,46.6,29.9,92.0,89.1,33.4,66.6,50.4,49.6,65.3,34.7,71.6,28.4,201718
+EXPEDIA.COM LIMITED,4838,1000 to 4999,27.5,19.6,58.5,30.1,89.0,82.9,35.6,64.4,47.6,52.4,57.1,42.9,69.1,30.9,201819
+EXPEDIA.COM LIMITED,4838,1000 to 4999,14.3,16.6,47.8,24.6,92.3,90.8,37.9,62.1,48.9,51.1,51.9,48.1,63.8,36.2,201920
+EXPEDIA.COM LIMITED,4838,1000 to 4999,11.8,13.7,36.7,36.8,95.1,95.7,34.9,65.1,49.8,50.2,52.6,47.4,60.6,39.4,202021
