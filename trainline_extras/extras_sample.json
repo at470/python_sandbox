@@ -1,0 +1,558 @@
+{
+    "data": [
+        {
+            "id": "cd7e461777cb27902e4e0a965699e03e2a5f1365",
+            "type": "extraType",
+            "attributes": {
+                "code": "urn:trainline:cff:extra:cff_city_ticket_arrival",
+                "name": "City-Ticket Lugano",
+                "description": "In addition to the journey between the departure and arrival, this ticket also includes a Day Pass for local traffic (tram, bus, S-Bahn) in the cities of departure and/or arrival. Refundable until the day before departure and non exchangeable.",
+                "conditions": null,
+                "language": "en",
+                "group": "localTransport"
+            },
+            "relationships": {
+                "x-name": {
+                    "links": {
+                        "self": "https://et2-traveldataapi.service.ttlnonprod.local/api/extra-types/cd7e461777cb27902e4e0a965699e03e2a5f1365/relationships/x-name",
+                        "related": "https://et2-traveldataapi.service.ttlnonprod.local/api/extra-types/cd7e461777cb27902e4e0a965699e03e2a5f1365/x-name"
+                    },
+                    "data": [
+                        {
+                            "id": "e85470966969af8654929281d2c6eb9f3fd49a67",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "cs",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "0e606310b9571b0f1f0934d581346d7a50259343",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "da",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "8bf3800f5ba37667237dbf618a1dff393a83c3db",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "de",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "d58d963ff9ad4c85aa9199b0d452251dcfe95277",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "en",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "4d5028b1351f24004ed93af87d87ead51498ceff",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "es",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "e345aeda94962919374da7e081c4ae29f7b48f09",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "fr",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "e1642425293416ea281a773ad8b55f152f5b64a1",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "it",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "5950b6112bebd3097a6ab751cf38a96f54cae57b",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "nb",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "a5822fe40216ac3ea07736fac3ce22c98174e3b2",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "nl",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "15035fe0cdd4a06fd59ee6b4f1daa7c96e89402e",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "pl",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "80c6042ec34a2a8ad6d0091608dbac0ab6a52e26",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "pt",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "b63e0fbd694ad518f9d55de598edf230311aa243",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "pt-PT",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "f5ddab5f614a7ed1e6887db8cc36732ba4fac798",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "sv",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "c725e0d6daf9ec205ac440fd5f617ba920dedc0e",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "zh",
+                                "source": null
+                            }
+                        }
+                    ],
+                    "meta": {
+                        "count": "14"
+                    }
+                },
+                "x-description": {
+                    "links": {
+                        "self": "https://et2-traveldataapi.service.ttlnonprod.local/api/extra-types/cd7e461777cb27902e4e0a965699e03e2a5f1365/relationships/x-description",
+                        "related": "https://et2-traveldataapi.service.ttlnonprod.local/api/extra-types/cd7e461777cb27902e4e0a965699e03e2a5f1365/x-description"
+                    },
+                    "data": [
+                        {
+                            "id": "a4af77d4f919635b1f1715fd11a369789907381d",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "cs",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "dc1680cd1c6c7ac05da92512a0b53724e1b3eae8",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "da",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "e0a06458b344df9c00b4c4b5510a8f721de89623",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "de",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "b72cb04cbb2f81d2db70bd9439b26082f2e8e9bd",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "en",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "4b9f8f0b077ba9060dd225f43b20777d87b95a96",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "es",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "d9751fee76c1f2daf1087b80215f73fdbc78d744",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "fr",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "aab4242485d7388a1dbb31a82e6e5031e1024f88",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "it",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "ad5c00f5ba2de0ee63eced7ce034eb9f7c61c92f",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "nb",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "0470316998bd9fb67ec8ad26a8bd9ee709f4d6ad",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "nl",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "028acd9d717cdddc25a6d4425713a7c9c6bcc5c1",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "pl",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "ca537b16866cfc780c7699422e20b986a7e825a4",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "pt",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "1438c7b9b8995f45e35f00019b9d006c9c1ac9ca",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "pt-PT",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "9786d0574762de3adb809b338dad2e1cd680de07",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "sv",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "2d60270cb561f4855f054e1887949590ad828bfb",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "zh",
+                                "source": null
+                            }
+                        }
+                    ],
+                    "meta": {
+                        "count": "14"
+                    }
+                },
+                "x-conditions": {
+                    "links": {
+                        "self": "https://et2-traveldataapi.service.ttlnonprod.local/api/extra-types/cd7e461777cb27902e4e0a965699e03e2a5f1365/relationships/x-conditions",
+                        "related": "https://et2-traveldataapi.service.ttlnonprod.local/api/extra-types/cd7e461777cb27902e4e0a965699e03e2a5f1365/x-conditions"
+                    },
+                    "data": [],
+                    "meta": {
+                        "count": "0"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://et2-traveldataapi.service.ttlnonprod.local/api/extra-types/cd7e461777cb27902e4e0a965699e03e2a5f1365"
+            }
+        },
+        {
+            "id": "6dae9be361cfc95ebe31c3974a87cd768ccead76",
+            "type": "extraType",
+            "attributes": {
+                "code": "urn:trainline:flixbus:extra:hand_luggage-0cc55a9c2726fb74edcd1ec41a003b16",
+                "name": "Hand baggages",
+                "description": "Each passenger can take one hand baggage (max. 42 x 30 x 18 cm, max. 7 kg).",
+                "conditions": null,
+                "language": "en",
+                "group": "handLuggage"
+            },
+            "relationships": {
+                "x-name": {
+                    "links": {
+                        "self": "https://et2-traveldataapi.service.ttlnonprod.local/api/extra-types/6dae9be361cfc95ebe31c3974a87cd768ccead76/relationships/x-name",
+                        "related": "https://et2-traveldataapi.service.ttlnonprod.local/api/extra-types/6dae9be361cfc95ebe31c3974a87cd768ccead76/x-name"
+                    },
+                    "data": [
+                        {
+                            "id": "460b95fc46cc67f177b1e357ce657bf947364869",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "cs",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "7a6d4a74d4d62c359f1830d39480671d4065b6ba",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "da",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "82f949451fe3a7234a36d1e3c774604b670e408f",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "de",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "b2602d78710d141360775d1216b71bc6af8309e2",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "en",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "0554ac5cf00eb359cdd3882e61d353c9fb247a3a",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "es",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "16d09cb84c91585c8cc9bff6d1576b7ffdb84ecc",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "fr",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "a2c2feeb53b6a62b42baf2ac4a15cc4ceba63db0",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "it",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "2cb620bd07920db3dd449e2b062d424741cabe03",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "nb",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "77930d30f30a2aa9818f0cf01901bd0fb3b1fdd4",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "nl",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "014de042a83473f15624f39f379958a598a663e3",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "pl",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "08bd7c612b1a1410297106fb4232903faa444233",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "pt",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "1d567a4fe07fe86e1d55ff5f7b9b3b629f7e3582",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "pt-PT",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "4f2d54889372f566779b8de3cc3ea82a9d11baca",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "sv",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "3014dedc06d8fd1efe4d116207d394432f7cf36f",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "zh",
+                                "source": null
+                            }
+                        }
+                    ],
+                    "meta": {
+                        "count": "14"
+                    }
+                },
+                "x-description": {
+                    "links": {
+                        "self": "https://et2-traveldataapi.service.ttlnonprod.local/api/extra-types/6dae9be361cfc95ebe31c3974a87cd768ccead76/relationships/x-description",
+                        "related": "https://et2-traveldataapi.service.ttlnonprod.local/api/extra-types/6dae9be361cfc95ebe31c3974a87cd768ccead76/x-description"
+                    },
+                    "data": [
+                        {
+                            "id": "2fae6ef5d7e253fc6a4033bc50f7c056166f0173",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "cs",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "abbf7da269fc598f63e0a69720d4e383c2b14e03",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "da",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "b9e8c281d7b73a07a8f1a7e6bcfa5f259f0d40ce",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "de",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "08e54fdf5e4dc2d6df31b4e8e6414c80f027613a",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "en",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "9679a4a7c4008b7856c12bfd2a6ab6122fa3bd15",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "es",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "fc9078291e0fe235562bb95a01bbb644c2300292",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "fr",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "6d36cf0e74096da3a18db5e11f6ec0c9de175a9d",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "it",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "b4b86dd106a1e825fb0534ec5b92aaea58951c29",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "nb",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "b1f10b1084d699da34d962db2320c2e2fd40ff6a",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "nl",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "c925579fe30e1ea5376e38ed557d9976101bbe73",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "pl",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "1c39ac050eacce066a9398938d1a2e7d28fedd74",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "pt",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "57e70a6f911741ddde5f52f95a11280fb94a339c",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "pt-PT",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "350774e147b3cec217a51868e1e388bfa0d1336d",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "sv",
+                                "source": null
+                            }
+                        },
+                        {
+                            "id": "71351cd9f189b929b33d27ad0ba7b9bf333e4afd",
+                            "type": "translation",
+                            "meta": {
+                                "locale": "zh",
+                                "source": null
+                            }
+                        }
+                    ],
+                    "meta": {
+                        "count": "14"
+                    }
+                },
+                "x-conditions": {
+                    "links": {
+                        "self": "https://et2-traveldataapi.service.ttlnonprod.local/api/extra-types/6dae9be361cfc95ebe31c3974a87cd768ccead76/relationships/x-conditions",
+                        "related": "https://et2-traveldataapi.service.ttlnonprod.local/api/extra-types/6dae9be361cfc95ebe31c3974a87cd768ccead76/x-conditions"
+                    },
+                    "data": [],
+                    "meta": {
+                        "count": "0"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://et2-traveldataapi.service.ttlnonprod.local/api/extra-types/6dae9be361cfc95ebe31c3974a87cd768ccead76"
+            }
+        }
+    ],
+    "links": {
+        "next": "https://et2-traveldataapi.service.ttlnonprod.local/api/extra-types?page[offset]=6a50062a8b2b7e666a55bbdce74403487aa2686a",
+        "self": "https://et2-traveldataapi.service.ttlnonprod.local/api/extra-types"
+    },
+    "meta": {},
+    "jsonapi": {
+        "version": "1.0"
+    }
+}
