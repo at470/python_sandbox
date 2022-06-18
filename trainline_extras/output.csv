@@ -1,0 +1,500 @@
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Lugano,localTransport
+flixbus,urn:trainline:flixbus:extra:hand_luggage-0cc55a9c2726fb74edcd1ec41a003b16,Hand baggages,handLuggage
+westbahn,urn:trainline:westbahn:extra:newspapers-ad5954f3585359ac5490263469f4ba26,Zeitungen,
+trenitalia,urn:trainline:trenitalia:extra:entertainment-19a3ec899746fa0c9e1a059efe3fe276,"Programme de divertissement à bord : films, journaux, musique, dessins animés.",
+ntv,urn:trainline:ntv:extra:newspaper,Nyhetstidning (på morgonen),reading
+ntv,urn:trainline:ntv:extra:newspaper,Newspaper (in the morning),reading
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Waldstatt,localTransport
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known-de5293061a0361a16f0d06bf4d54ada9,1 travel baggage of 20 kg,luggage
+trenitalia,urn:trainline:trenitalia:extra:morning_newspaper,Morning newspaper,
+ouigo,urn:trainline:ouigo:extra:stroller,Cochecito,pram
+ntv,urn:trainline:ntv:extra:outlet-94aebd9f9a4fa8ec915c15b1be776506,Presa elettrica,electricSocket
+db,urn:trainline:db:extra:ice_free_wifi,WiFi,
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known-617ddf8edc5bd325ce2a0513e5540b17,1 travel baggage of 20 kg,luggage
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known-71a3d56c5bbb961a7486601833b2b50e,1 travel baggage of 30 kg,luggage
+trenitalia,urn:trainline:trenitalia:extra:executive_area_meeting,Area Meeting,
+sncf,urn:trainline:sncf:extra:bicycle_with_reservation-5be7906f847e1b46cc02b94ca91cec20,Réservation vélo pour tous les passagers,bicycle
+ouigo,urn:trainline:ouigo:extra:seat_selection_ouigo_duopp_essentiel_adulte_no_seatmap-4acde6bdd8643f01e957dd99638703f0,Power outlet,seatSelectionNoSeatmap
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Davos,localTransport
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival-4255cdda1edaaabf3cb99205224da3f1,"City-Ticket Lausanne, Chauderon",localTransport
+busbud,urn:trainline:busbud:extra:hand_luggage,2 Handgepäckstücke,handLuggage
+busbud,urn:trainline:busbud:extra:toilet-4597ebd861f51c470e165c366e5fdefb,Toilets,toilet
+busbud,urn:trainline:busbud:extra:drinks,Bevande,drinks
+renfe,urn:trainline:renfe:extra:served_meal,Repas à la place,
+ntv,urn:trainline:ntv:extra:wifi,WiFi,wifi
+obb,urn:trainline:obb:extra:lounge_klagenfurt_hbf-e87427bfc912c16f1a14e527436861a3,ÖBB lounge Klagenfurt Hbf,departureLounge
+ouigo,urn:trainline:ouigo:extra:ouigo_spain_extra_luggage-972618333b3b3a0833e7307100250c12,Extra baggage,luggage
+flixbus,urn:trainline:flixbus:extra:hand_luggage-2fe9da99fd3bd9d70741c894b350cf1d,Hand baggages,handLuggage
+ouigo,urn:trainline:ouigo:extra:seat_selection_ouigo_duopp_essentiel_adulte-90c372a46d489966bd44dac53c1ae745,Seat selection,seatSelection
+ouigo,urn:trainline:ouigo:extra:seat_selection_paxspec_0_5672abb07a7311eb8ec77caef766b354_ouigo_duopp-1031038d366b6cb27a79b14c549c4f2d,Seat selection,
+ouigo,urn:trainline:ouigo:extra:luggage,Bagage supplémentaire,luggage
+trenitalia,urn:trainline:trenitalia:extra:seat_selection-f87dd93db996edc07b74239fe4422223,Seat selection,
+flixbus,urn:trainline:flixbus:extra:travel_luggage,2 valises,luggage
+trenitalia,urn:trainline:trenitalia:extra:meal-082e1e0919320b1c9c4740185b315f88,Comida servida en el asiento,meal
+db,urn:trainline:db:extra:ic_bus_power_outlet,Toma de corriente,
+distribusion,urn:trainline:distribusion:extra:snacks-8f5fb91545d636ce03a2076c5483203b,零食小吃,meal
+flixbus,urn:trainline:flixbus:extra:travel_luggage,2 maletas,luggage
+distribusion,urn:trainline:distribusion:extra:sleepingkit-b9cea67c85d2f7b46eef4b845b7614b5,Sleeping kit,atSeatService
+db_pst,urn:trainline:db_pst:extra:city_ticket-4e76e1ecc180381385f6a0ecde8b4798,City-Ticket,
+db,urn:trainline:db:extra:book_round_trip_pnr,Book a return ticket,
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Ittigen bei Bern,localTransport
+distribusion,urn:trainline:distribusion:extra:wifi-db541747377fdc12f6212aa724d6663d,WiFi,wifi
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Sursee,localTransport
+distribusion,urn:trainline:distribusion:extra:smalltable-d5a91b8c0faa716b27c4989a89509d17,Small table,compartment
+sncf,urn:trainline:sncf:extra:bicycle_with_reservation,Plazas para bicicletas (2),
+busbud,urn:trainline:busbud:extra:hand_luggage-bb3d6f5585489186f15891e68aa6731a,1件手提行李,handLuggage
+ouigo,urn:trainline:ouigo:extra:seat_selection_ouigo_duo_essentiel_adulte-72b5d3a85b8d5480ecc44a4b2560157f,Selección de asientos,seatSelection
+trenitalia,urn:trainline:trenitalia:extra:newspaper-be78dcffedd3dd2d91967acce03c07f7,Giornali e riviste,reading
+ouigo,urn:trainline:ouigo:extra:seat_selection_ouigo_duopp_essentiel_adulte-90c372a46d489966bd44dac53c1ae745,Selección de asientos,seatSelection
+db,urn:trainline:db:extra:ice_free_wifi,WiFi,
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Sion,localTransport
+busbud,urn:trainline:busbud:extra:hand_luggage,1 equipaje de mano,
+ouigo,urn:trainline:ouigo:extra:seat_selection_ouigo_solo_essentiel_enfant-5fffa5e2285b4bb20d9ad2300087b7b2,translation missing: en.data.ssr..seat_selection.title,
+trenitalia,urn:trainline:trenitalia:extra:welcome_snack-780589ba3d0f0d32c2030bb65902ee75,Getränke und Snacks,meal
+ouigo,urn:trainline:ouigo:extra:seat_selection_ouigo_duopp_essentiel_adulte_no_seatmap-69f44c199817ccb396582f71725731fe,Seat with power outlet,seatSelectionNoSeatmap
+sncf,urn:trainline:sncf:extra:bicycle_with_reservation,Plazas para bicicletas (5),
+ouigo,urn:trainline:ouigo:extra:ouigo_spain_extra_luggage-39137dcf95d595df5cdc93f6beef47ac,Extra luggage,
+sncf,urn:trainline:sncf:extra:private_compartment-a36d31e8fe849666a0b4cf6a5999f99d,Private compartment,
+flixbus,urn:trainline:flixbus:extra:hand_luggage,1 Handgepäck,handLuggage
+sncf,urn:trainline:sncf:extra:wifi-d30b4653f4d34bf22edbb6c8e7eae07e,translation missing: en.data.ssr.wifi.title,wifi
+busbud,urn:trainline:busbud:extra:hand_luggage-f166a668aee12a34b3680ae32faf460c,2 bagages à main,handLuggage
+ouigo,urn:trainline:ouigo:extra:folded_bicycle-d9f97835d1399f20fb330035f0b0906c,Bicicleta plegable/desmontada,luggage
+flixbus,urn:trainline:flixbus:extra:travel_luggage-21e893641802afa0259f92feed15d545,Travel baggages,luggage
+distribusion,urn:trainline:distribusion:extra:toilet,%{0e963a8fd3d42c95a53e6538c5ae633be4f24974},toilet
+ouigo,urn:trainline:ouigo:extra:ouigo_spain_xl_seat_priority_allocation-2a291fd2130120829e42a50ad4b731f3,translation missing: en.data.ssr.ouigo_spain.ouigo_spain_xl_seat_priority_allocation.title,
+trenitalia,urn:trainline:trenitalia:extra:morning_newspaper,Stampa (la mattina),reading
+trenitalia,urn:trainline:trenitalia:extra:morning_newspaper,Newspaper (in the morning),reading
+flixbus,urn:trainline:flixbus:extra:hand_luggage-c6a184def09f42cf448b6b58e88d0acf,Hand baggages,handLuggage
+sncf,urn:trainline:sncf:extra:bicycle_with_reservation,Bike reservations (4),bicycle
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known,1 Gepäckstück von 30 kg,
+flixbus,urn:trainline:flixbus:extra:wifi,WiFi,wifi
+ouigo,urn:trainline:ouigo:extra:seat_selection_ouigo_solo_essentiel_enfant-20e9fab395ca4671f6177380415a09c0,Seat selection,seatSelection
+flixbus,urn:trainline:flixbus:extra:wifi-c000ced509a3f6e88bf6b3927c2f8b2b,WLAN,wifi
+sncf,urn:trainline:sncf:extra:food_drink_vending_machine-6f0618c90c10b0e8161ccc09d7a2c2cb,translation missing: en.data.ssr.sncf.food_drink_vending_machine.title,drinksAndSnacks
+obb,urn:trainline:obb:extra:lounge_wien_hbf-1cf6cf33bd3c5dc738edd194df498510,ÖBB lounge Gronau (Westf),departureLounge
+ouigo,urn:trainline:ouigo:extra:ouigo_spain_xl_seat_priority_allocation-cdfc01c1683919d8f594b9fbb25a9d06,Priority allocation of an XL seat (subject to availability),largeSeat
+distribusion,urn:trainline:distribusion:extra:mediasystem-ebcf417670a5afa15e0906950c415522,车载媒体系统,
+db,urn:trainline:db:extra:free_wifi,WiFi,wifi
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known,1 travel baggage of 20 kg,
+sncf,urn:trainline:sncf:extra:bicycle_with_reservation-6d111c92a518acf35b81165546953460,Réservation vélo pour tous les passagers,bicycle
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known,2 stk. reisebagasje på 20 kg,luggage
+flixbus,urn:trainline:flixbus:extra:hand_luggage,Hand baggage,handLuggage
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Horw,localTransport
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known,1 maleta de 25 kgs.,
+busbud,urn:trainline:busbud:extra:hand_luggage-98b37e166e53937357fbcf8af0b01eef,Hand baggage,handLuggage
+ouigo,urn:trainline:ouigo:extra:seat_selection_ouigo_solo_essentiel_adulte_no_seatmap-e241b6643282c4cbd4ef2492abc55ae2,Place isolée,seatSelectionNoSeatmap
+flixbus,urn:trainline:flixbus:extra:snack-ce036f9774767ad315759db3b785b82c,Teste,
+ouigo,urn:trainline:ouigo:extra:seat_selection_ouigo_duopp_essentiel_adulte_no_seatmap-7375343badad265d13809d3c9b67d251,Seat with power outlet,seatSelectionNoSeatmap
+db,urn:trainline:db:extra:ic_bus_free_wifi,WLAN,
+renfe,urn:trainline:renfe:extra:served_meal,Comida servida en el asiento,meal
+renfe,urn:trainline:renfe:extra:served_meal,Mahlzeit am Platz,
+sncf,urn:trainline:sncf:extra:bicycle_without_reservation,Spazio biciclette,bicycle
+westbahn,urn:trainline:westbahn:extra:leather_seats-889ade4902cbd42746f71e1bf13828ee,Ledersitze,leatherSeats
+ntv,urn:trainline:ntv:extra:outlet-94aebd9f9a4fa8ec915c15b1be776506,Electrical socket,electricSocket
+busbud,urn:trainline:busbud:extra:wifi,Wifi,wifi
+trenitalia,urn:trainline:trenitalia:extra:entertainment-789e457fa95a0b011ee6083d2475e590,"Entertainment Portal with free movies, newspapers, music and cartoons",atSeatService
+obb,urn:trainline:obb:extra:lounge_innsbruck_hbf,ÖBB lounge Innsbruck Hbf,departureLounge
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known,1 maleta de 20 kgs.,luggage
+flixbus,urn:trainline:flixbus:extra:hand_luggage,Hand baggages,handLuggage
+sncf,urn:trainline:sncf:extra:business_premiere-5e76ef4db5c865f35d773f471773e384,Business Première,
+ouigo,urn:trainline:ouigo:extra:ouigo_plus_extra_luggage-ea32b26344185efd3645978352309069,Extra baggage,luggage
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Lausanne,localTransport
+westbahn,urn:trainline:westbahn:extra:seat_catering,Snacksservering til setet,
+flixbus,urn:trainline:flixbus:extra:wifi,WiFi,
+distribusion,urn:trainline:distribusion:extra:magazines-742baebcd8a43e435d2ddf3ade57627e,Magazines,reading
+db,urn:trainline:db:extra:ice_free_wifi-0f3cdf43c7e8d42add8cfea7d79c734a,WiFi,wifi
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known,1 maleta de 20 kgs.,
+ouigo,urn:trainline:ouigo:extra:luggage-ffb53e02bb1805bb6c121bc61a4a16da,Extra baggage,luggage
+distribusion,urn:trainline:distribusion:extra:additionallegroom-d8fd6b8eb5397ae2c38f387132c476eb,Additional leg room,extraLegroom
+busbud,urn:trainline:busbud:extra:wifi,WiFi,wifi
+trenitalia,urn:trainline:trenitalia:extra:meal-082e1e0919320b1c9c4740185b315f88,At-seat meal service,meal
+ouigo,urn:trainline:ouigo:extra:sms-99e87b80d1ee4f65d285b56651d88bce,SMS reminder,sms
+ntv,urn:trainline:ntv:extra:newspaper,Journaux (le matin),reading
+flixbus,urn:trainline:flixbus:extra:wifi,WiFi,wifi
+ntv,urn:trainline:ntv:extra:newspaper,Newspaper (in the morning),reading
+trenitalia,urn:trainline:trenitalia:extra:seat_selection-9099959a49962cb34f83971e86c113e2,Sitzplatzauswahl,seatSelection
+sncf,urn:trainline:sncf:extra:wifi,WLAN,
+obb,urn:trainline:obb:extra:bord_restaurant,Restaurant ombord,restaurant
+flixbus,urn:trainline:flixbus:extra:hand_luggage-93b68a8aa8a66de6053e758bc7b0435d,Hand baggage,handLuggage
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Luzern,localTransport
+renfe,urn:trainline:renfe:extra:nino_seat,Plaza con asiento para niño,
+sncf,urn:trainline:sncf:extra:bicycle_without_reservation,Espacio para bicicletas,bicycle
+busbud,urn:trainline:busbud:extra:outlet-b00d4292652b36f4b872a7701a1e2e1e,Power outlet,electricSocket
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Köniz,localTransport
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,"City-Ticket Chur, Malteser",localTransport
+ntv,urn:trainline:ntv:extra:wifi,%{c35ed582bcd391ff828d2cc38fd861dbbd84d272},wifi
+ntv,urn:trainline:ntv:extra:xleg,Espacio adicional para las piernas,extraLegroom
+ouigo,urn:trainline:ouigo:extra:seat_selection_ouigo_solo_essentiel_adulte_no_seatmap-25ffc14edc7b2edd6b75c0e14ba6ad5e,Solo seat,seatSelectionNoSeatmap
+obb,urn:trainline:obb:extra:lounge_wien_hbf-c15ed12d024d456fcb9180f4781d88ce,ÖBB lounge Wien Hbf,departureLounge
+ouigo,urn:trainline:ouigo:extra:seat_selection_no_seatmap_solo-6fc97cb78d7295e3916c09242c243c46,Asiento aislado,seatSelectionNoSeatmap
+ouigo,urn:trainline:ouigo:extra:ouigo_plus_boarding-c85caca6a65d4954e67bc0a1dc67f5f3,Priority boarding,pram
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known,1 Gepäckstück von 30 kg,
+distribusion,urn:trainline:distribusion:extra:mediasystem-421137fce5004b00eab2caf80cb9c5f4,Media System,
+sncf,urn:trainline:sncf:extra:bicycle_without_reservation-76873595b60e481cc61d2b030cc4b754,Espace vélo,bicycle
+trenitalia,urn:trainline:trenitalia:extra:morning_newspaper-d7b8ce7e799a8f32a8aee8cbf9fc3083,Morning newspaper,reading
+ouigo,urn:trainline:ouigo:extra:ouigo_plus_boarding-cc420d1593a4196fa31998ea952ba0cf,translation missing: en.data.ssr.ouigo.ouigo_plus_boarding.title,departureLounge
+flixbus,urn:trainline:flixbus:extra:hand_luggage,Hand baggage,handLuggage
+ntv,urn:trainline:ntv:extra:welcome_snack-96cea6d9082a5022412f140ab482c778,Welcome drinks and snacks,meal
+cff,urn:trainline:cff:extra:cff_city_ticket_departure-7cdc85d15bfd2c3d102bb6df5ed7badb,City-Ticket Le Locle,localTransport
+flixbus,urn:trainline:flixbus:extra:hand_luggage,4 bagagli a mano,handLuggage
+ouigo,urn:trainline:ouigo:extra:seat_selection_ouigo_duopp_essentiel_adulte-798bf481b9b75347eb2b71c34a3d92cf,Seat selection,
+ntv,urn:trainline:ntv:extra:newspaper-e638e4ff431ac33b67a84ed6c2c9b310,Newspaper (in the morning),reading
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket St-Léonard,localTransport
+ouigo,urn:trainline:ouigo:extra:seat_selection_paxspec_0_e6db4a8df0ecd1be63dba6063e0a9dd85eee34a6_ouigo_solo-2865e90904139361ae701c3235821849,Seat selection,
+renfe,urn:trainline:renfe:extra:seat_selection-1d39022858e43f5599be394381bbec8f,Seat selection,seatSelection
+ouigo,urn:trainline:ouigo:extra:seat_selection_ouigo_duopp_essentiel_adulte_no_seatmap-cb283db0d8ba6d0e7ac91a3373fd417e,Seat with power outlet,seatSelectionNoSeatmap
+obb,urn:trainline:obb:extra:lounge_salzburg_hbf,ÖBB lounge Salzburg Hbf,departureLounge
+trenitalia,urn:trainline:trenitalia:extra:welcome_snack,Welcome drinks and snacks,meal
+flixbus,urn:trainline:flixbus:extra:travel_luggage,2 bagagli da stiva,luggage
+distribusion,urn:trainline:distribusion:extra:snacks-063423ae421144b6ee678d60f34c7a7c,Snacks,meal
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Neuchâtel Champ-Bougin,localTransport
+westbahn,urn:trainline:westbahn:extra:seat_catering,In-seat snack service,
+sncf,urn:trainline:sncf:extra:bicycle_with_reservation,Places vélos (2),
+flixbus,urn:trainline:flixbus:extra:travel_luggage,1 stuk bagage,luggage
+ntv,urn:trainline:ntv:extra:newspaper,Diarios (por la mañana),reading
+obb,urn:trainline:obb:extra:lounge_salzburg_hbf-41161736b58547b3af2bb5ee578f3006,ÖBB lounge Salzburg Hbf,departureLounge
+distribusion,urn:trainline:distribusion:extra:snacks-74e5c5e96649bd21bbb064823dceb9f1,Snacks,meal
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Colombier,localTransport
+busbud,urn:trainline:busbud:extra:outlet,Steckdose,
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Konstanz,localTransport
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known,1 travel baggage of 20 kg,luggage
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known,2 rejse luggage af20 kg,luggage
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Auvernier,localTransport
+ntv,urn:trainline:ntv:extra:newspaper,Gazeta (rano),reading
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known,1 travel baggage of 20 kg,luggage
+ouigo,urn:trainline:ouigo:extra:ouigo_plus_free_seat_selection-93c2dea7ca3eb445405f007e298c0ce9,Seat selection,seatSelection
+trenitalia,urn:trainline:trenitalia:extra:wifi-70a23967006d9d0d57f1e0e7d5d01375,Wi-fi,wifi
+distribusion,urn:trainline:distribusion:extra:bike-38b5c0edefb728832fb298ccf7aff1b1,Accessible area for bicycles,bicycle
+obb,urn:trainline:obb:extra:lounge_wien_hbf-fb6ccc7061f1d12af5a29fe9be15a389,ÖBB lounge Köln Hbf,departureLounge
+flixbus,urn:trainline:flixbus:extra:hand_luggage,2 Handgepäckstücke,
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known,2 bagagli da stiva di 20 kg,
+busbud,urn:trainline:busbud:extra:hand_luggage,1 bagage à main,
+sncf,urn:trainline:sncf:extra:served_dish-6a5270f137aa96962c182acfdd659a0f,Repas à la place,
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival-51b62385daca894e51829ac37be2d9aa,City-Ticket Fribourg,localTransport
+obb,urn:trainline:obb:extra:lounge_innsbruck_hbf-de379cf6e5ddc056639a66522cc7c5e1,ÖBB lounge Sargans,departureLounge
+flixbus,urn:trainline:flixbus:extra:travel_luggage,4 maletas,luggage
+sncf,urn:trainline:sncf:extra:wifi,WiFi,wifi
+westbahn,urn:trainline:westbahn:extra:free_wifi-68ef2cf37c9ea7ceed3722145df87ad9,WLAN,wifi
+sncf,urn:trainline:sncf:extra:business_premiere,Business Premier,
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Davos Dorf,localTransport
+flixbus,urn:trainline:flixbus:extra:travel_luggage-105283dc63a894298255e682808e5036,Travel baggages,luggage
+trenitalia,urn:trainline:trenitalia:extra:welcome_snack-99c44d4afd62f6a4693500ecf1db6861,Boisson et en-cas,meal
+obb,urn:trainline:obb:extra:öbb lounge innsbruck hbf,translation missing: it.data.ssr.obb.öbb lounge innsbruck hbf.title,
+sncf,urn:trainline:sncf:extra:bicycle_with_reservation-fc03e711757d4e6e2e4950e3090d1a01,Réservation vélo pour tous les passagers,bicycle
+db,urn:trainline:db:extra:ic_bus_free_wifi,WiFi,wifi
+db_pst,urn:trainline:db_pst:extra:ice_free_wifi-3bb40b81dadc035cfc52e55d2eac0959,WIFI Test,wifi
+busbud,urn:trainline:busbud:extra:toilet,Toiletten,toilet
+flixbus,urn:trainline:flixbus:extra:wifi,WiFi,wifi
+ouigo,urn:trainline:ouigo:extra:seat_selection_paxspec_1_bc82a8760115a15422f2201a2a0308499e2b00c6_ouigo_solo-2bf49feb3c763ba76a4099be8679e8d8,Seat selection,
+ouigo,urn:trainline:ouigo:extra:seat_selection_paxspec_0_567366867a7311eb97a88bb47308b11d_ouigo_solo-decd4c7e075d3f30f4a3e115b21144ce,Seat selection,
+ntv,urn:trainline:ntv:extra:outlet,Electrical socket,
+ntv,urn:trainline:ntv:extra:newspaper-2ebd6a97c1d667010a8404cacf0b8ade,Giornali (la mattina),reading
+sncf,urn:trainline:sncf:extra:served_dish-047ce7b916e935020f06040de36e597e,Repas à la place,
+cff,urn:trainline:cff:extra:cff_city_ticket_departure-37e378ee1d1f1adc21e3828746871031,City-Ticket Biel/Bienne,localTransport
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket San Martino,localTransport
+ntv,urn:trainline:ntv:extra:illimited_snack-7ccacb6a5db0e5c4cb6fbe9fcf23a62c,Unlimited drinks and snacks,
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Lancy-Bachet,localTransport
+ntv,urn:trainline:ntv:extra:xleg,Extra leg room,extraLegroom
+obb,urn:trainline:obb:extra:lounge_wien_hbf-7f07db5bf1590370dbf436f81c3c4523,ÖBB lounge Wien Hbf,departureLounge
+distribusion,urn:trainline:distribusion:extra:easyaccessprmseat-cb4e4db073e393eff4654d10e2bef6f3,Easy access to floor,easyAccessPRMSeat
+busbud,urn:trainline:busbud:extra:hand_luggage-5ca6c673dfd248932e1e866f75f59f8f,Hand baggage,handLuggage
+busbud,urn:trainline:busbud:extra:toilet,Toilets,toilet
+ntv,urn:trainline:ntv:extra:newspaper,Journaux (le matin),reading
+ouigo,urn:trainline:ouigo:extra:ouigo_spain_included_luggage-190cc2425ef8aece7fdba354d318f65c,Included luggage,luggage
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Ostermundigen,localTransport
+ouigo,urn:trainline:ouigo:extra:seat_selection_paxspec_2_ouigo_solo-9abef8a5f2ffd160a8be8f201d945e8a,Seat selection,
+ouigo,urn:trainline:ouigo:extra:seat_selection_ouigo_solo_essentiel_adulte_no_seatmap-7bc7d713b0fa9ab701a4cf76c3a2a2bf,Solo seat,seatSelectionNoSeatmap
+obb,urn:trainline:obb:extra:bord_restaurant,On-board restaurant,restaurant
+db_pst,urn:trainline:db_pst:extra:yolo-ec43ccc27420d9abba6c161f177c37f3,YOLOOOOOOOOOO,
+ntv,urn:trainline:ntv:extra:welcome_snack,Bevande e snack,meal
+sncf,urn:trainline:sncf:extra:bicycle_with_reservation,Posto bicicletta,bicycle
+trenitalia,urn:trainline:trenitalia:extra:welcome_snack,Welcome drinks and snacks,meal
+trenitalia,urn:trainline:trenitalia:extra:welcome_snack,Welcome drinks and snacks,
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known,1 travel baggage of 29 kg,luggage
+ntv,urn:trainline:ntv:extra:welcome_snack,Welcome drinks and snacks,meal
+sncf,urn:trainline:sncf:extra:business_premiere,Business Premier,
+ouigo,urn:trainline:ouigo:extra:ouigo_spain_additional_luggage-54b6dc8fe95332351da80ac41af96688,Extra baggage,luggage
+ouigo,urn:trainline:ouigo:extra:seat_selection_ouigo_duo_essentiel_adulte-c3ec4f4ca7e882bf4bec5de49e713b19,Seat selection,seatSelection
+ouigo,urn:trainline:ouigo:extra:seat_selection_ouigo_solo_essentiel_adulte_no_seatmap-25ffc14edc7b2edd6b75c0e14ba6ad5e,Solo seat,seatSelectionNoSeatmap
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,"City-Ticket Bern, Beaumont",localTransport
+sncf,urn:trainline:sncf:extra:bicycle_with_reservation,Bike reservations (2),
+busbud,urn:trainline:busbud:extra:wifi,WiFi,
+distribusion,urn:trainline:distribusion:extra:smalltable-ffbb96044f0dfd5b1b0d2e9d1eafdd69,Small table,compartment
+sncf,urn:trainline:sncf:extra:food_drink_vending_machine-a169c5f9afe3980e362a6d2e6c25276a,Distributeur de friandises/​boissons,drinksAndSnacks
+trenitalia,urn:trainline:trenitalia:extra:outlet,Steckdose,
+ouigo,urn:trainline:ouigo:extra:ouigo_duo_essentiel_enfant_seat_selection-9eff9c3329624cbc3dad97340d01a76b,Seat selection,
+ntv,urn:trainline:ntv:extra:newspaper,Stampa (la mattina),reading
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival-5ea54a2570c9a0ae90c4b92c533b8cdb,City-Ticket Basel Bad Bf,localTransport
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Zürich,localTransport
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Sorengo Laghetto,localTransport
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Chiasso,localTransport
+flixbus,urn:trainline:flixbus:extra:hand_luggage,3 bagagli a mano,
+sncf,urn:trainline:sncf:extra:bicycle_with_reservation,Bike reservations (3),bicycle
+sncf,urn:trainline:sncf:extra:usb_outlet-e390fa87952a1db136c28d8a0d7a226c,Port USB,electricSocket
+sncf,urn:trainline:sncf:extra:business_premiere,Business Premier,
+sncf,urn:trainline:sncf:extra:bicycle_with_reservation,Posti biciclette (2),bicycle
+sncf,urn:trainline:sncf:extra:bicycle_with_reservation,Bike reservations (4),bicycle
+obb,urn:trainline:obb:extra:lounge_wien_hbf,ÖBB Lounge Wien Hbf,departureLounge
+distribusion,urn:trainline:distribusion:extra:airconditioning-ff7293478b2dff14f9cedc7969953818,Air Conditioning,compartment
+ouigo,urn:trainline:ouigo:extra:seat_selection_ouigo_duopp_essentiel_adulte-ddd628db5253bdef03d121c775167d2b,Seat selection,
+trenitalia,urn:trainline:trenitalia:extra:meal-eef8145ed3bd0fdbe2f3e405be4e5483,At-seat meal service,meal
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,"City-Ticket Orbe, Poste",localTransport
+obb,urn:trainline:obb:extra:lounge_wien_hbf-13f66e5cf1cffd4282ae5607b2aaf79d,ÖBB lounge Salzburg Hbf,departureLounge
+trenitalia,urn:trainline:trenitalia:extra:entertainment-19cc10f12933a623d38dcee5d6f92e38,"Entertainment Portal with free movies, newspapers, music and cartoons",
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known,1 maleta de 20 kgs.,luggage
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Schwäbis,localTransport
+sncf,urn:trainline:sncf:extra:nursery_space-7a82bc6fc91311a4767ac8819c3a229b,Nursery space,
+flixbus,urn:trainline:flixbus:extra:wifi-bf92888361a65862830b1f37ef5bbb39,WiFi,wifi
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known,1 maleta de 29 kgs.,
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known,1 travel baggage of 20 kg,luggage
+obb,urn:trainline:obb:extra:ice_free_wifi-e5f33aadfd0b9c0c4e8b698bd3cb0b46,WiFi,wifi
+busbud,urn:trainline:busbud:extra:wifi,WiFi,wifi
+flixbus,urn:trainline:flixbus:extra:hand_luggage,Hand baggage,handLuggage
+sncf,urn:trainline:sncf:extra:bicycle_with_reservation,Bike reservations (2),bicycle
+sncf,urn:trainline:sncf:extra:bicycle_with_reservation,Posto bicicletta,
+db,urn:trainline:db:extra:ic_bus_free_wifi,WiFi,
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival-7df7792b7fb41be5c9dcc87e78ad6222,City-Ticket Fribourg/Freiburg Poya,localTransport
+ouigo,urn:trainline:ouigo:extra:luggage-586866ea32400e589898c3b6b8a8decb,Extra baggage,luggage
+ouigo,urn:trainline:ouigo:extra:seat_selection_ouigo_duo_essentiel_adulte-b177c5ce51e9d844270407b099055f63,translation missing: en.data.ssr..seat_selection.title,
+trenitalia,urn:trainline:trenitalia:extra:wifi-41fe042dea96f419111e4953962609c9,WiFi,wifi
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known,2 travel baggages of 20 kg,
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Thun,localTransport
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Le Reymond,localTransport
+busbud,urn:trainline:busbud:extra:toilet,Toiletten,toilet
+busbud,urn:trainline:busbud:extra:toilet,Toaletter,toilet
+ouigo,urn:trainline:ouigo:extra:ouigo_spain_included_luggage-95ed48a4a9410476695fd81497c98c7a,Included luggage,luggage
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known,1 bagaglio da stiva di 29 kg,luggage
+distribusion,urn:trainline:distribusion:extra:snacks-636e709f3b5ae9267298c85a6e8d1a2a,Snacks,meal
+cff,urn:trainline:cff:extra:cff_city_ticket_departure,City-Ticket Lausanne,localTransport
+distribusion,urn:trainline:distribusion:extra:airconditioning-4fccece94028e510793a88a51cee0745,Air Conditioning,compartment
+trenitalia,urn:trainline:trenitalia:extra:outlet-9dc7989b03ca5053ab1f60daa68eea8f,Electrical socket,electricSocket
+sncf,urn:trainline:sncf:extra:bicycle_with_reservation,Réservation vélo pour tous les passagers,bicycle
+busbud,urn:trainline:busbud:extra:outlet,Presa elettrica,electricSocket
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival-2151b6bb74fab8315dd251c4ba1a12a0,City-Ticket Genève,localTransport
+busbud,urn:trainline:busbud:extra:drinks,Drinks,
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival-0cd095b55f598604b03a936322db33b7,City-Ticket Zürich,localTransport
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival-af5deafae656c8ef33ff100c365786cd,"City-Ticket St. Gallen, Marktplatz Bohl",localTransport
+ouigo,urn:trainline:ouigo:extra:ouigo_spain_included_luggage-603de7078b1468a5f9bf085aa57b21b5,Included luggage,
+ouigo,urn:trainline:ouigo:extra:seat_selection_paxspec_1_56736cee7a7311eb8a52661542d862e5_ouigo_duopp-b6e6fdd9761ae87131797ed8be4cd3ef,Seat selection,
+flixbus,urn:trainline:flixbus:extra:travel_luggage-21e893641802afa0259f92feed15d545,Travel baggages,luggage
+obb,urn:trainline:obb:extra:lounge_salzburg_hbf-8d87f10f86e18b57dd7e2c8261b93404,ÖBB lounge Praha hl.n.,departureLounge
+cff,urn:trainline:cff:extra:cff_city_ticket_departure-999f68594ee83ea4dc44d4a2facad741,City-Ticket Buchs SG,localTransport
+distribusion,urn:trainline:distribusion:extra:outlet-e6be98432873d3aea37a02ef4e26d716,Power outlet,electricSocket
+cff,urn:trainline:cff:extra:cff_city_ticket_departure-8d7fe3f67046f8b7756384786f4ffcb5,City-Ticket Locarno,localTransport
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,"City-Ticket Villeneuve Vd, Gare",localTransport
+flixbus,urn:trainline:flixbus:extra:travel_luggage,5 valises,luggage
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Riedholz,localTransport
+obb,urn:trainline:obb:extra:lounge_wien_hbf-b7d98f42205ffcb4b51093675ac2edf8,ÖBB lounge Nürnberg Hbf,departureLounge
+busbud,urn:trainline:busbud:extra:hand_luggage,2 stuks handbagage,handLuggage
+renfe,urn:trainline:renfe:extra:served_meal,At-your-seat meal service,meal
+flixbus,urn:trainline:flixbus:extra:travel_luggage,Travel baggages,luggage
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Versoix,localTransport
+sncf,urn:trainline:sncf:extra:business_premiere-dc93bb231bbb728b579e074c152d4bfe,Business Première,
+sncf,urn:trainline:sncf:extra:business_premiere-b3ea4c0a9f70c82b429598715101c279,Business Premier,
+flixbus,urn:trainline:flixbus:extra:hand_luggage-7cdad56af381c7eb10510b1e0f4a0541,Hand baggage,handLuggage
+renfe,urn:trainline:renfe:extra:served_meal,At-your-seat meal service,meal
+westbahn,urn:trainline:westbahn:extra:newspapers,Nyhetstidningar,
+westbahn,urn:trainline:westbahn:extra:leather_seats-889ade4902cbd42746f71e1bf13828ee,Ledersitze,
+cff,urn:trainline:cff:extra:cff_city_ticket_departure-1540d88196018c39e096a08f81fea831,City-Ticket Bern,localTransport
+ouigo,urn:trainline:ouigo:extra:ouigo_spain_included_luggage-603de7078b1468a5f9bf085aa57b21b5,Included luggage,luggage
+trenitalia,urn:trainline:trenitalia:extra:outlet-43882117eee459cbd8047dc1cacfa053,Electrical socket,electricSocket
+sncf,urn:trainline:sncf:extra:seat_selection-2236bc4ec18b9fdad11bd96dd907eebc,Choix des places,seatSelection
+renfe,urn:trainline:renfe:extra:nino_seat-fdc6efc530eb2decbc6e0816faef2efe,Seat reservation for child,
+eurostardirect,urn:trainline:eurostardirect:extra:served_dish-e0387c8e0e1371684ca62aa16a21d048,At-your-seat meal service,meal
+distribusion,urn:trainline:distribusion:extra:outlet,Stikkontakt,electricSocket
+distribusion,urn:trainline:distribusion:extra:magazines-cf8af0ab12a1cb598c6d80ea7288c475,Magazines,reading
+busbud,urn:trainline:busbud:extra:wifi,WiFi,wifi
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known,2 Gepäckstücke von 20 kg,
+sncf,urn:trainline:sncf:extra:private_compartment,Espace privatif,
+sncf,urn:trainline:sncf:extra:bicycle_with_reservation,Réservation vélo pour tous les passagers,bicycle
+db,urn:trainline:db:extra:lounge_innsbruck_hbf-cd2928399cd8986f9f9e21013d849559,ÖBB lounge Innsbruck Hbf,departureLounge
+obb,urn:trainline:obb:extra:lounge_innsbruck_hbf-35f6f51f441ee1303d19b2b7ac8fb80e,ÖBB lounge Wien Hbf,departureLounge
+flixbus,urn:trainline:flixbus:extra:hand_luggage,4 bolsos de mano,handLuggage
+sncf,urn:trainline:sncf:extra:bicycle_with_reservation,Réservation vélo pour tous les passagers,bicycle
+ouigo,urn:trainline:ouigo:extra:folded_bicycle-acfb93c427666270f9d8e84a0ebf0f93,Folded / dismantled bike,luggage
+ouigo,urn:trainline:ouigo:extra:seat_selection_ouigo_duo_essentiel_adulte-b0028f459a59e2e7e6b4a8fe74b10ca0,Seat selection,seatSelection
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Hergiswil Matt,localTransport
+westbahn,urn:trainline:westbahn:extra:leather_seats,Ledersitze,
+ntv,urn:trainline:ntv:extra:outlet,Toma de corriente,electricSocket
+sncf,urn:trainline:sncf:extra:business_premiere,Business Premier,
+busbud,urn:trainline:busbud:extra:outlet,Steckdose,
+ouigo,urn:trainline:ouigo:extra:sms,SMS de información,sms
+busbud,urn:trainline:busbud:extra:large_seat,Large seat,largeSeat
+distribusion,urn:trainline:distribusion:extra:snacks-017d1741d501717b45d5ae2a51ff86a4,Snacks,meal
+ntv,urn:trainline:ntv:extra:outlet-19ef678ccda48cdc233cc6702b787946,Electrical socket,electricSocket
+db,urn:trainline:db:extra:ice_free_wifi,WiFi,
+distribusion,urn:trainline:distribusion:extra:toilet-9fcbbd010a611bdccbf3338352bc20da,Toilets,toilet
+ouigo,urn:trainline:ouigo:extra:seat_selection_ouigo_solo_essentiel_adulte_no_seatmap-ab907e4dcd542e07ee3abaf46f1a47a0,Solo seat,seatSelectionNoSeatmap
+ouigo,urn:trainline:ouigo:extra:seat_selection_ouigo_solo_essentiel_adulte-3ee4b33bf57896ac97352af3695ae328,translation missing: en.data.ssr.ouigo.seat_selection_ouigo_solo_essentiel_adulte.title,
+trenitalia,urn:trainline:trenitalia:extra:morning_newspaper,Newspaper (in the morning),reading
+flixbus,urn:trainline:flixbus:extra:travel_luggage-f8eb646c99271c183d944ac0dbeef551,Travel baggages,luggage
+busbud,urn:trainline:busbud:extra:outlet,Toma de corriente,
+westbahn,urn:trainline:westbahn:extra:free_wifi-b040e3b8798e9e379086d112a39fcdcc,WLAN,wifi
+ntv,urn:trainline:ntv:extra:wifi,WiFi,wifi
+busbud,urn:trainline:busbud:extra:toilet,Toilettes,
+westbahn,urn:trainline:westbahn:extra:newspapers-326ee0e7318b9f8578446e1c800b1076,Jornais,
+busbud,urn:trainline:busbud:extra:drinks,Bevande,drinks
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival-329726a840ac7b7fdf1cf22f160b1cf8,City-Ticket Sierre/Siders,localTransport
+ouigo,urn:trainline:ouigo:extra:seat_selection_ouigo_duopp_essentiel_adulte_no_seatmap-653477442586fd8cd8e1ba797c2cdc50,Prise électrique,seatSelectionNoSeatmap
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Davos Wolfgang (Bus),localTransport
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Muttenz,localTransport
+ouigo,urn:trainline:ouigo:extra:sms-5201b0548fb5dc62a1d488e20f9c7cac,SMS reminder,sms
+ntv,urn:trainline:ntv:extra:newspaper-049c0b9e3c03ffd7a7391a6ef3b781f8,Newspaper (in the morning),reading
+trenitalia,urn:trainline:trenitalia:extra:outlet-836ac07acf792f82c99330e1a26335f6,Electrical socket,electricSocket
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Genève,localTransport
+flixbus,urn:trainline:flixbus:extra:hand_luggage,Hand baggages,handLuggage
+ouigo,urn:trainline:ouigo:extra:seat_selection_no_seatmap_duopp-0242a6c99a9714d3da8dfcb7b25c513e,Seat with power outlet,seatSelectionNoSeatmap
+obb,urn:trainline:obb:extra:öbb lounge linz,ÖBB lounge Linz,
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known,2 travel baggages of 20 kg,luggage
+flixbus,urn:trainline:flixbus:extra:wifi-cddee8485378db2978e9911febbbddd2,WiFi,wifi
+ntv,urn:trainline:ntv:extra:outlet,Prise électrique,electricSocket
+flixbus,urn:trainline:flixbus:extra:travel_luggage,5 maletas,luggage
+distribusion,urn:trainline:distribusion:extra:airconditioning-872cec2e5cd27171b1a20d5098d21981,Air Conditioning,compartment
+ouigo,urn:trainline:ouigo:extra:luggage,Equipaje adicional,luggage
+flixbus,urn:trainline:flixbus:extra:hand_luggage,3 Handgepäckstücke,
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival-f12a1e1f37466d983afe651c8c4dd18d,City-Ticket Basel,localTransport
+db,urn:trainline:db:extra:ic_bus_power_outlet,Presa elettrica,electricSocket
+obb,urn:trainline:obb:extra:free_wifi,WLAN,wifi
+flixbus,urn:trainline:flixbus:extra:hand_luggage,1 hand baggage,
+busbud,urn:trainline:busbud:extra:wifi,WiFi,wifi
+obb,urn:trainline:obb:extra:free_wifi,WiFi,wifi
+busbud,urn:trainline:busbud:extra:hand_luggage,2 bagages à main,handLuggage
+obb,urn:trainline:obb:extra:lounge_graz_hbf-f4280c02bc4a240c2bde9ec02cc6b8f3,ÖBB lounge Berlin Hbf (tief),departureLounge
+obb,urn:trainline:obb:extra:lounge_wien_hbf-c46f7f62ce38b8fabdb0a9adc1d17037,ÖBB lounge Wien Hbf,departureLounge
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Bern,localTransport
+ntv,urn:trainline:ntv:extra:wifi,WiFi,wifi
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival-90f8361454abff1d9aa6097179a48226,City-Ticket Brig,localTransport
+ouigo,urn:trainline:ouigo:extra:ouigo_spain_included_luggage-d7e843258a470438189d3ce523eca1c3,Included luggage,luggage
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Chur,localTransport
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Corseaux-Cornalles,localTransport
+flixbus,urn:trainline:flixbus:extra:hand_luggage-6f6fde94a40d92f793d9de016ade2666,Hand baggages,handLuggage
+ouigo,urn:trainline:ouigo:extra:seat_selection_ouigo_duo_essentiel_adulte-c3ec4f4ca7e882bf4bec5de49e713b19,Seat selection,
+distribusion,urn:trainline:distribusion:extra:wifi,WiFi,wifi
+distribusion,urn:trainline:distribusion:extra:snacks-592648986094c3c32599b0b5c92fd6c6,Snacks,meal
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,"City-Ticket Lausanne, Chauderon",localTransport
+ouigo,urn:trainline:ouigo:extra:hand_luggage-7b1c8ceec35799d71bdaec4db2f02ad8,Hand luggage,luggage
+distribusion,urn:trainline:distribusion:extra:adjustableleatherseats-65e6741cb27167f36e2f1a53b0a0347c,Adjustable leather seats,leatherSeats
+cff,urn:trainline:cff:extra:cff_city_ticket_departure,City-Ticket Basel Bad Bf,localTransport
+ouigo,urn:trainline:ouigo:extra:ouigo_spain_additional_luggage-411bf20ca27ac0626d042947ae170ae4,Bagage supplémentaire,luggage
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Chiasso,localTransport
+ouigo,urn:trainline:ouigo:extra:sms,SMS reminder,sms
+sncf,urn:trainline:sncf:extra:seat_selection-9099959a49962cb34f83971e86c113e2,Choix des places,seatSelection
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Itingen,localTransport
+distribusion,urn:trainline:distribusion:extra:drinks-436f56afb6ec4dbef7af385514db6150,Drinks,drinks
+busbud,urn:trainline:busbud:extra:outlet,Presa elettrica,electricSocket
+flixbus,urn:trainline:flixbus:extra:hand_luggage,3 bagages à main,
+cff,urn:trainline:cff:extra:cff_city_ticket_departure,City-Ticket Bern,localTransport
+distribusion,urn:trainline:distribusion:extra:bike-2c4e95a87743a6d854bdca896e6476b5,Accessible area for bicycles,bicycle
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival-2fbd7d7f46995ec503c316f3d6410e74,City-Ticket St-Gallen Riethüsli,localTransport
+sncf,urn:trainline:sncf:extra:bicycle_with_reservation,Places vélos (2),bicycle
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known,1 bagaglio da stiva di 20 kg,luggage
+flixbus,urn:trainline:flixbus:extra:travel_luggage,Travel baggage,
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known,1 maleta de 30 kgs.,luggage
+flixbus,urn:trainline:flixbus:extra:hand_luggage-b0a90cb4c12e9a21b8addfda9df3a114,10 bagages à main,handLuggage
+cff,urn:trainline:cff:extra:cff_city_ticket_departure-8c6c26ae2691e16ae8c6b12b3503abe1,City-Ticket Biel/Bienne Bözingen/Boujean,localTransport
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Gerlafingen,localTransport
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival-d0dffab4ae610af346ac50ed37349119,City-Ticket Zürich,localTransport
+distribusion,urn:trainline:distribusion:extra:toilet,Toilets,toilet
+cff,urn:trainline:cff:extra:cff_city_ticket_departure-15e6ad20dd4fdc66ec253d0322f119c6,City-Ticket Luzern Allmend/Messe,localTransport
+sncf,urn:trainline:sncf:extra:bicycle_with_reservation,Fahrradstellplatz,
+distribusion,urn:trainline:distribusion:extra:smalltable-d5a91b8c0faa716b27c4989a89509d17,Small table,compartment
+ouigo,urn:trainline:ouigo:extra:ouigo_spain_xl_seat_priority_allocation-d4f02cd8a5a64d41f51039075e47a5b4,translation missing: en.data.ssr.ouigo_spain.ouigo_spain_xl_seat_priority_allocation.title,
+distribusion,urn:trainline:distribusion:extra:airconditioning-c715438a1dbf4404be441ee91385c360,Air Conditioning,compartment
+flixbus,urn:trainline:flixbus:extra:travel_luggage-c22ee33d59e5a634c0ea8a8f8e9af130,Travel baggage,luggage
+sncf,urn:trainline:sncf:extra:bicycle_with_reservation-7bdebc8759fc631b59407d402508153b,Réservation vélo pour tous les passagers,bicycle
+sncf,urn:trainline:sncf:extra:family_compartment-37988bcdc81ff6f75ff5a6ed1cac88c9,Espace privatif,
+flixbus,urn:trainline:flixbus:extra:hand_luggage,2 handbagage,handLuggage
+flixbus,urn:trainline:flixbus:extra:hand_luggage-6fb94f24b82970aadaebbdd2c5029cbf,Hand baggages,handLuggage
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Montreux,localTransport
+ouigo,urn:trainline:ouigo:extra:bicycle-a33aed1e80d140b3e0bdcc34617f646c,Place vélo,luggage
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known,1 valise de 20 kg,luggage
+ouigo,urn:trainline:ouigo:extra:ouigo_spain_xl_seat_priority_allocation-17971577d3053401374e3db042dc471c,Priority allocation of an XL seat (subject to availability),largeSeat
+ouigo,urn:trainline:ouigo:extra:ouigo_spain_additional_luggage-3e2596a64200b59ba3bc9d395e1685c2,Extra baggage,luggage
+westbahn,urn:trainline:westbahn:extra:free_wifi,WiFi,wifi
+trenitalia,urn:trainline:trenitalia:extra:outlet,Elektrisch stopcontact,electricSocket
+westbahn,urn:trainline:westbahn:extra:seat_catering,Service à la place,
+sncf,urn:trainline:sncf:extra:family_compartment,Compartimento privado,
+distribusion,urn:trainline:distribusion:extra:outlet,Tomada elétrica,electricSocket
+flixbus,urn:trainline:flixbus:extra:travel_luggage,%{9879ac75832a3f1a105f0a5ca765882dbaf6ad21},luggage
+cff,urn:trainline:cff:extra:cff_city_ticket_departure-e93051da62a6d70bed04295e5899223b,City-Ticket Zürich,localTransport
+sncf,urn:trainline:sncf:extra:bicycle_with_reservation,Place vélo,
+flixbus,urn:trainline:flixbus:extra:travel_luggage-81b7da5e5e820fe2761f89d42db7d2a3,Travel baggages,luggage
+sncf,urn:trainline:sncf:extra:business_premiere,Business Première,
+ouigo,urn:trainline:ouigo:extra:bicycle-f0285782812164c1b7972ee8b3ccd632,Bike reservation,luggage
+sncf,urn:trainline:sncf:extra:private_compartment,Area riservata,
+obb,urn:trainline:obb:extra:free_wifi-4060835681505f6f25464bdd3c9d7d3f,WiFi,wifi
+ouigo,urn:trainline:ouigo:extra:seat_selection_ouigo_duo_essentiel_adulte-b0028f459a59e2e7e6b4a8fe74b10ca0,Seat selection,
+sncf,urn:trainline:sncf:extra:seat_selection-4b19fd832364ad5181a8eff062e0ae35,Choix des places,seatSelection
+ntv,urn:trainline:ntv:extra:wifi,WLAN,wifi
+distribusion,urn:trainline:distribusion:extra:toilet-d301f261350bd8552c44f0971a4026e9,卫生间,toilet
+sncf,urn:trainline:sncf:extra:ouigo_spain_additional_luggage-3f141dedc171d48600fd4a906a4c71e5,Additional luggage,
+ouigo,urn:trainline:ouigo:extra:ouigo_spain_additional_luggage-be5ccdc35ae0966a309d782555b49039,Equipaje adicional,luggage
+obb,urn:trainline:obb:extra:lounge_innsbruck_hbf-5510092ff1f9a84b8bfb3b86f8b954b8,ÖBB lounge Aachen Hbf,departureLounge
+sncf,urn:trainline:sncf:extra:bicycle_with_reservation-955c6b4535753d5053c132ff58c08ce7,Réservation vélo pour tous les passagers,bicycle
+trenitalia,urn:trainline:trenitalia:extra:meal-4f833203190682ed3c7ffc1629a9bd0f,Pasto servito al posto,meal
+obb,urn:trainline:obb:extra:lounge_wien_hbf-dbdfe6b06e0388a5b624fd8d078ca4e4,ÖBB lounge Hamburg Hbf,departureLounge
+distribusion,urn:trainline:distribusion:extra:quietcompartment-cf4999e3958430a6219005981bec444a,Quiet compartment,compartment
+ouigo,urn:trainline:ouigo:extra:seat_selection_ouigo_solo_essentiel_adulte-3961220e279d16ede8238fef18ab05cd,Seat selection,
+flixbus,urn:trainline:flixbus:extra:snack-3f66a8559f0645ed596121f3df966600,WiFi,
+obb,urn:trainline:obb:extra:free_wifi-2bc2face81051031731c81c34ac74b4b,Wi-Fi,wifi
+ouigo,urn:trainline:ouigo:extra:ouigo_plus_free_seat_selection-5e7b45bbbe8a9d653757b0d726b48e89,Free choice of seat,seatSelection
+ouigo,urn:trainline:ouigo:extra:hand_luggage-4d39fc7a1f2988cc0e9bb080079f7562,Hand luggage,luggage
+trenitalia,urn:trainline:trenitalia:extra:executive_area_meeting,Salle de réunion,
+ouigo,urn:trainline:ouigo:extra:ouigo_spain_included_luggage-d7e843258a470438189d3ce523eca1c3,Included luggage,luggage
+busbud,urn:trainline:busbud:extra:wifi,WiFi,
+ouigo,urn:trainline:ouigo:extra:hand_luggage-d4820331c1dc22748713ddcd33338a7f,Hand luggage,luggage
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Bei den Weihern,localTransport
+flixbus,urn:trainline:flixbus:extra:hand_luggage-f2316a4bad0c1e16223cc08117ad7897,Hand baggages,handLuggage
+flixbus,urn:trainline:flixbus:extra:hand_luggage,2 kolli håndbagasje,handLuggage
+busbud,urn:trainline:busbud:extra:toilet,Toilettes,toilet
+ntv,urn:trainline:ntv:extra:newspaper-2ebd6a97c1d667010a8404cacf0b8ade,Newspaper (in the morning),reading
+cff,urn:trainline:cff:extra:cff_city_ticket_departure-33316837c3e807dd19049e6db6ca88af,City-Ticket Montreux,localTransport
+cff,urn:trainline:cff:extra:cff_city_ticket_departure-b8beae0783a27c02be335883160d1df1,City-Ticket Lugano,localTransport
+busbud,urn:trainline:busbud:extra:outlet,Stikkontakt,electricSocket
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known,2 valises de 20 kg,luggage
+trenitalia,urn:trainline:trenitalia:extra:meal,Comida servida en el asiento,meal
+db_pst,urn:trainline:db_pst:extra:seat_selection-f87dd93db996edc07b74239fe4422223,Seat selection,seatSelection
+flixbus,urn:trainline:flixbus:extra:hand_luggage,4 bagages à main,handLuggage
+obb,urn:trainline:obb:extra:bord_restaurant,Restaurant ombord,restaurant
+westbahn,urn:trainline:westbahn:extra:newspapers-262ab0fbef03ddb7936e4e00ff7bb2ba,Zeitungen,reading
+flixbus,urn:trainline:flixbus:extra:hand_luggage-bcc7aef29cf0d45a6756007a3c920d5d,Hand baggages,handLuggage
+ntv,urn:trainline:ntv:extra:newspaper,Newspaper (in the morning),reading
+db,urn:trainline:db:extra:ic_bus_power_outlet,Power outlet,electricSocket
+westbahn,urn:trainline:westbahn:extra:free_wifi,WiFi,wifi
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Neuchâtel,localTransport
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known,1 maleta de 25 kgs.,
+flixbus,urn:trainline:flixbus:extra:travel_luggage,3 bagagli da stiva,luggage
+sncf,urn:trainline:sncf:extra:bicycle_with_reservation,Bike reservation,bicycle
+trenitalia,urn:trainline:trenitalia:extra:executive_area_meeting,Meeting area,
+ouigo,urn:trainline:ouigo:extra:ouigo_spain_included_luggage-64c142ad5c73eb85423b7bb7645c821a,Included luggage,luggage
+ouigo,urn:trainline:ouigo:extra:ouigo_plus_extra_luggage-1946526c1fbe22537f44df2133863f10,Extra baggage,luggage
+flixbus,urn:trainline:flixbus:extra:travel_luggage,Travel baggages,luggage
+ntv,urn:trainline:ntv:extra:newspaper-ed188ab304746efe59a90c9517a54e31,Newspaper (in the morning),reading
+distribusion,urn:trainline:distribusion:extra:bike-5f7fae844d0ae82a7fb7e907d3366a43,Accessible area for bicycles,bicycle
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known,2 Gepäckstücke von 20 kg,
+distribusion,urn:trainline:distribusion:extra:toilet-a4ecdf01f7415f28e5ac0cc47fbd563d,Toilets,toilet
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known-a57ccfc6f0230d9546db583d9b136153,1 travel baggage of 20 kg,luggage
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known,1 travel baggage of 29 kg,luggage
+flixbus,urn:trainline:flixbus:extra:travel_luggage,1 bagaglio da stiva,luggage
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Chur West,localTransport
+ouigo,urn:trainline:ouigo:extra:cabin_luggage-c2ea5d0f27bf50c77997cf597682744f,Cabin luggage,luggage
+flixbus,urn:trainline:flixbus:extra:travel_luggage-731c43b0f0de5f46a7226eca402c2e7c,Travel baggage,luggage
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known,1 travel baggage of 30 kg,luggage
+ntv,urn:trainline:ntv:extra:outlet,Electrical socket,electricSocket
+busbud,urn:trainline:busbud:extra:hand_luggage-ebf4986fd114c6bb35c94dfff44bd149,Hand baggages,handLuggage
+trenitalia,urn:trainline:trenitalia:extra:meal-eef8145ed3bd0fdbe2f3e405be4e5483,Serviço de refeições no assento,meal
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Le Crêt-du-Locle,localTransport
+ntv,urn:trainline:ntv:extra:outlet,Electrical socket,electricSocket
+ntv,urn:trainline:ntv:extra:newspaper-7e25310a17776050fe7da0aeffacaca8,Newspaper (in the morning),reading
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival,City-Ticket Luterbach-Attisholz,localTransport
+ouigo,urn:trainline:ouigo:extra:folded_bicycle-b46129343bec4138d76996cf8d52700d,Folded / dismantled bike,luggage
+cff,urn:trainline:cff:extra:cff_city_ticket_arrival-1bd6d4e49147dac1ed44f0c0a61b5fe1,City-Ticket Neuchâtel,localTransport
+ntv,urn:trainline:ntv:extra:xleg,Extra leg room,extraLegroom
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known,1 bagaglio da stiva di 30 kg,luggage
+ntv,urn:trainline:ntv:extra:newspaper-a0325ad82cf639fe712c74484fe8ec29,Newspaper (in the morning),reading
+sncf,urn:trainline:sncf:extra:bicycle_with_reservation,Bike reservations for all passengers,bicycle
+ouigo,urn:trainline:ouigo:extra:ouigo_spain_additional_luggage-411bf20ca27ac0626d042947ae170ae4,Extra baggage,luggage
+ouigo,urn:trainline:ouigo:extra:luggage,Zusätzliches Gepäck,luggage
+busbud,urn:trainline:busbud:extra:hand_luggage,Hand baggage,handLuggage
+busbud,urn:trainline:busbud:extra:travel_luggage.weight_known,1 travel baggage of 30 kg,
+cff,urn:trainline:cff:extra:cff_city_ticket_departure-ad3015ec3ab51c51d1d7a3707a735657,City-Ticket Basel,localTransport
